@@ -41,6 +41,15 @@
             <version>2.11.0</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/uk.co.jemos.podam/podam -->
+        <dependency>
+            <groupId>uk.co.jemos.podam</groupId>
+            <artifactId>podam</artifactId>
+            <version>7.2.5.RELEASE</version>
+            <scope>test</scope>
+        </dependency>
+
+
 
 
     </dependencies>
